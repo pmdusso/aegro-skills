@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "aegro-skills",
+      "description": "12 AI skills for Aegro agricultural management",
+      "version": "0.2.0",
+      "path": "."
+    }
+  ]
+}
