@@ -1,7 +1,7 @@
 ---
 name: aegro-agronomo
 description: Dominio agronomico do Aegro - safras, talhoes, atividades, colheitas, clima e insumos de producao
-version: 0.2.0
+version: 0.3.0
 ---
 
 # Agronomo - Dominio Agronomico do Aegro
